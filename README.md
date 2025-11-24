@@ -2,17 +2,18 @@
 
 
 
-1\. pain\_haut
 
-2\. salade
+1\. tomate
 
-3\. tomate
+2\. steak
 
-4\. steak
+3\. pain\_haut
 
-5\. fromage
+4\. sauce
 
-6\. sauce
+5\. salade
+
+6\. fromage
 
 7\. pain\_bas
 
